@@ -1,2 +1,2 @@
 # profile
-#tranhaiduong-profile.netlify.app
+tranhaiduong-profile.netlify.app
